@@ -1,6 +1,6 @@
 # Flutter Workshop #1
 
-## Pre-workshop (homework)
+## Pre-workshop (watch before workshop)
 * Create Flutter Project (20 mins) - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=3666 
 * Understand Widget (20 mins) - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=5688
 * Scaffold & App Color (15 mins) - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=6827
