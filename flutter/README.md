@@ -7,7 +7,7 @@
 * Basic Widgets #1 (30 mins)
   * Stateless Widget - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=7757
   * Center, Text and Colors, Images, Column, Row Widget - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=8276
-* Basic Widget2 #2 (30 mins)  
+* Basic Widgets #2 (30 mins)  
   * Button & Icons - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=9994
   * Widget in List, ListView, ListTile, ListView Builder - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=11446
 
