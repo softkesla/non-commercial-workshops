@@ -1,7 +1,12 @@
 # Flutter Workshop #1
 
 ## Pre-workshop (watch before workshop)
-* Create Flutter Project (20 mins) - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=3666 
+* Install VS Code - https://www.youtube.com/watch?v=aueD1VI7SZM&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=12
+* Install Flutter SDK - 
+* Create Flutter Project - https://www.youtube.com/watch?v=umcd9KGaanE&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=13
+* Running Project - https://www.youtube.com/watch?v=YTA5pN9hPGE&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=14
+* Basic Dart - https://www.youtube.com/watch?v=_bB6-VeqQ1s&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=17
+* Display result - https://www.youtube.com/watch?v=cnmBHTEkK3E&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=18
 * Understand Widget (20 mins) - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=5688
 * Scaffold & App Color (15 mins) - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=6827
 * Basic Widgets #1 (30 mins)
