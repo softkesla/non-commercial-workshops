@@ -11,31 +11,31 @@
   * Variable naming convention - https://www.youtube.com/watch?v=jEQuZ0l2xLE&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=23
   * String & Text - https://www.youtube.com/watch?v=AitVh7bpnis&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=24
   * Basic Opertors
-    ** https://www.youtube.com/watch?v=UK6j1sxsRZg&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=25
-    ** https://www.youtube.com/watch?v=HMXX1FdzpTA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=26
-    ** https://www.youtube.com/watch?v=V5VAMVEXETA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=27
+    * https://www.youtube.com/watch?v=UK6j1sxsRZg&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=25
+    * https://www.youtube.com/watch?v=HMXX1FdzpTA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=26
+    * https://www.youtube.com/watch?v=V5VAMVEXETA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=27
   * Logical Operators - https://www.youtube.com/watch?v=K9YUY2GaT9E&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=32
   * Compound Assignment - https://www.youtube.com/watch?v=V5VAMVEXETA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=27
   * If Statement
-    ** https://www.youtube.com/watch?v=1zZelDKRsXA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=29
-    ** https://www.youtube.com/watch?v=rhwLWrHW-X4&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=30
-    ** https://www.youtube.com/watch?v=voUf867Tdw4&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=31
+    * https://www.youtube.com/watch?v=1zZelDKRsXA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=29
+    * https://www.youtube.com/watch?v=rhwLWrHW-X4&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=30
+    * https://www.youtube.com/watch?v=voUf867Tdw4&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=31
   * Ternary Operator - https://www.youtube.com/watch?v=uhbKSnVdxMc&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=33
   * Switch Cases - https://www.youtube.com/watch?v=0UO56paWeVM&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=34
   * Loop
-    ** While Loop - https://www.youtube.com/watch?v=uUoFz8zBP-c&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=35
-    ** For Loop - https://www.youtube.com/watch?v=hysKdzAw2GQ&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=36
-    ** Do...While - https://www.youtube.com/watch?v=WplXVqmW20k&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=37
-    ** Break & Continue - https://www.youtube.com/watch?v=oFYTar-XhGk&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=38
-    ** How to use loop - https://www.youtube.com/watch?v=VZmjAOpsyXI&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=39
+    * While Loop - https://www.youtube.com/watch?v=uUoFz8zBP-c&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=35
+    * For Loop - https://www.youtube.com/watch?v=hysKdzAw2GQ&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=36
+    * Do...While - https://www.youtube.com/watch?v=WplXVqmW20k&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=37
+    * Break & Continue - https://www.youtube.com/watch?v=oFYTar-XhGk&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=38
+    * How to use loop - https://www.youtube.com/watch?v=VZmjAOpsyXI&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=39
   * Functions
-    ** Create - https://www.youtube.com/watch?v=WByxRhS1kx8&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=40
-    ** Return - https://www.youtube.com/watch?v=o6QorwejE1U&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=41
-    ** Function parameters - https://www.youtube.com/watch?v=oypGov9C6L0&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=42
-    ** Optional parameters - https://www.youtube.com/watch?v=3551bhrrISM&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=44
-    ** Named parameters - https://www.youtube.com/watch?v=Yll904m5Zs0&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=45
-    ** Lamda / Arrow  function -  https://www.youtube.com/watch?v=oypGov9C6L0&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=43
-    ** First class function - https://www.youtube.com/watch?v=MceTCv8N6S0&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=46
+    * Create - https://www.youtube.com/watch?v=WByxRhS1kx8&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=40
+    * Return - https://www.youtube.com/watch?v=o6QorwejE1U&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=41
+    * Function parameters - https://www.youtube.com/watch?v=oypGov9C6L0&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=42
+    * Optional parameters - https://www.youtube.com/watch?v=3551bhrrISM&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=44
+    * Named parameters - https://www.youtube.com/watch?v=Yll904m5Zs0&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=45
+    * Lamda / Arrow  function -  https://www.youtube.com/watch?v=oypGov9C6L0&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=43
+    * First class function - https://www.youtube.com/watch?v=MceTCv8N6S0&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=46
     
 ## Workshop
 1. 
@@ -47,29 +47,29 @@
 
 # Flutter Workshop #2
 
-## Pre-workshop (Thing need to be done befor workshop)    
+## Pre-workshop (Watch & Preapre before workshop)    
 * Intermedate Dart
   * List class
-    ** Structure - https://www.youtube.com/watch?v=0psOsQv5w1s&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=47
-    ** Properties & Function - https://www.youtube.com/watch?v=x6iuSsOPpYI&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=48
-    ** Accessing item
-      ** https://www.youtube.com/watch?v=CIXbi0I8Cgk&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=49
-      ** https://www.youtube.com/watch?v=vFJuaBCJaGs&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=50
-    ** Adding item - https://www.youtube.com/watch?v=vFJuaBCJaGs&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=51
-    ** Deleting item - https://www.youtube.com/watch?v=vFJuaBCJaGs&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=52
+    * Structure - https://www.youtube.com/watch?v=0psOsQv5w1s&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=47
+    * Properties & Function - https://www.youtube.com/watch?v=x6iuSsOPpYI&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=48
+    * Accessing item
+      * https://www.youtube.com/watch?v=CIXbi0I8Cgk&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=49
+      * https://www.youtube.com/watch?v=vFJuaBCJaGs&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=50
+    * Adding item - https://www.youtube.com/watch?v=vFJuaBCJaGs&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=51
+    * Deleting item - https://www.youtube.com/watch?v=vFJuaBCJaGs&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=52
   * Map class
-    ** https://www.youtube.com/watch?v=PWKmWAAcTiU&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=53
-    ** https://www.youtube.com/watch?v=c8lSSfTLU30&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=54
-    ** https://www.youtube.com/watch?v=aJuzuYsUKZg&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=55
+    * https://www.youtube.com/watch?v=PWKmWAAcTiU&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=53
+    * https://www.youtube.com/watch?v=c8lSSfTLU30&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=54
+    * https://www.youtube.com/watch?v=aJuzuYsUKZg&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=55
   * Class
-    ** OOP - https://www.youtube.com/watch?v=MqttqfG-A84&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=56
-    ** Create class - https://www.youtube.com/watch?v=4vhW_zuOweA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=57
-    ** Create object - https://www.youtube.com/watch?v=HR9sWgoPs2Q&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=58
-    ** Accessor public / private - https://www.youtube.com/watch?v=2t_AszaDkBA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=59
-    ** Getter / Setter - https://www.youtube.com/watch?v=2t_AszaDkBA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=60
-    ** Constructor - https://www.youtube.com/watch?v=2t_AszaDkBA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=59
-    ** Inheritance - https://www.youtube.com/watch?v=it39VmxLfIs&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=62
-    ** Overriding - https://www.youtube.com/watch?v=-9haNcS_DvA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=63
+    * OOP - https://www.youtube.com/watch?v=MqttqfG-A84&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=56
+    * Create class - https://www.youtube.com/watch?v=4vhW_zuOweA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=57
+    * Create object - https://www.youtube.com/watch?v=HR9sWgoPs2Q&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=58
+    * Accessor public / private - https://www.youtube.com/watch?v=2t_AszaDkBA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=59
+    * Getter / Setter - https://www.youtube.com/watch?v=2t_AszaDkBA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=60
+    * Constructor - https://www.youtube.com/watch?v=2t_AszaDkBA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=59
+    * Inheritance - https://www.youtube.com/watch?v=it39VmxLfIs&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=62
+    * Overriding - https://www.youtube.com/watch?v=-9haNcS_DvA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=63
 
 * Install VS Code - https://www.youtube.com/watch?v=aueD1VI7SZM&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=12
 * Install Git Desktop - https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
