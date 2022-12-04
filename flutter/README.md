@@ -15,7 +15,7 @@
     * https://www.youtube.com/watch?v=HMXX1FdzpTA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=26
     * https://www.youtube.com/watch?v=V5VAMVEXETA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=27
   * Logical Operators - https://www.youtube.com/watch?v=K9YUY2GaT9E&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=32
-  * Compound Assignment - https://www.youtube.com/watch?v=V5VAMVEXETA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=27
+  * Compound Assignment - https://www.youtube.com/watch?v=V5VAMVEXETA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=28
   * If Statement
     * https://www.youtube.com/watch?v=1zZelDKRsXA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=29
     * https://www.youtube.com/watch?v=rhwLWrHW-X4&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=30
