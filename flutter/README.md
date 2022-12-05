@@ -70,8 +70,8 @@ Watch/read or do things listed below before workshop started
 * Install Flutter SDK
   *  Windows - https://www.youtube.com/watch?v=4328Fahyjhk&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=8
   *  macOS
-    *  https://www.youtube.com/watch?v=YrYxroSyFLg&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=15
-    *  https://www.youtube.com/watch?v=EtCJyn4RqIo&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=16
+    **  https://www.youtube.com/watch?v=YrYxroSyFLg&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=15
+    **  https://www.youtube.com/watch?v=EtCJyn4RqIo&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=16
 * Create Flutter Project - https://www.youtube.com/watch?v=umcd9KGaanE&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=13
 * Running Project - https://www.youtube.com/watch?v=YTA5pN9hPGE&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=14
 
