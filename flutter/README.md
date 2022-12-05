@@ -1,6 +1,7 @@
 # Flutter Workshop #1
 
-## Pre-workshop (Thing need to be done befor workshop)
+## Pre-workshop
+Watch/read or do things listed below before workshop started
 * Tool to use - https://dartpad.dev
 * Basic Dart
   * Fundation - https://www.youtube.com/watch?v=_bB6-VeqQ1s&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=17
@@ -28,6 +29,12 @@
     * Do...While - https://www.youtube.com/watch?v=WplXVqmW20k&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=37
     * Break & Continue - https://www.youtube.com/watch?v=oFYTar-XhGk&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=38
     * How to use loop - https://www.youtube.com/watch?v=VZmjAOpsyXI&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=39
+
+# Flutter Workshop #2
+
+## Pre-workshop
+Watch/read or do things listed below before workshop started
+* Intermedate Dart
   * Functions
     * Create - https://www.youtube.com/watch?v=WByxRhS1kx8&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=40
     * Return - https://www.youtube.com/watch?v=o6QorwejE1U&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=41
@@ -36,19 +43,6 @@
     * Named parameters - https://www.youtube.com/watch?v=Yll904m5Zs0&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=45
     * Lamda / Arrow  function -  https://www.youtube.com/watch?v=oypGov9C6L0&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=43
     * First class function - https://www.youtube.com/watch?v=MceTCv8N6S0&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=46
-    
-## Workshop
-1. 
-2. 
-
-## Homework
-1.
-2.
-
-# Flutter Workshop #2
-
-## Pre-workshop (Watch & Preapre before workshop)    
-* Intermedate Dart
   * List class
     * Structure - https://www.youtube.com/watch?v=0psOsQv5w1s&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=47
     * Properties & Function - https://www.youtube.com/watch?v=x6iuSsOPpYI&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=48
@@ -69,7 +63,7 @@
     * Getter / Setter - https://www.youtube.com/watch?v=2t_AszaDkBA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=60
     * Constructor - https://www.youtube.com/watch?v=2t_AszaDkBA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=59
     * Inheritance - https://www.youtube.com/watch?v=it39VmxLfIs&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=62
-    * Overriding - https://www.youtube.com/watch?v=-9haNcS_DvA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=63
+    * Overriding Method - https://www.youtube.com/watch?v=-9haNcS_DvA&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=63
 
 * Install VS Code - https://www.youtube.com/watch?v=aueD1VI7SZM&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=12
 * Install Git Desktop - https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
@@ -80,52 +74,99 @@
     *  https://www.youtube.com/watch?v=EtCJyn4RqIo&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=16
 * Create Flutter Project - https://www.youtube.com/watch?v=umcd9KGaanE&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=13
 * Running Project - https://www.youtube.com/watch?v=YTA5pN9hPGE&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=14
-* Display result - https://www.youtube.com/watch?v=cnmBHTEkK3E&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=18
-* Understand Widget (20 mins) - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=5688
-* Scaffold & App Color (15 mins) - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=6827
-* Basic Widgets #1 (30 mins)
-  * Stateless Widget - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=7757
-  * Center, Text and Colors, Images, Column, Row Widget - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=8276
-* Basic Widgets #2 (30 mins)  
-  * Button & Icons - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=9994
-  * Widget in List, ListView, ListTile, ListView Builder - https://youtu.be/3jGj-1-m_zA?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&t=11446
-## Workshop
 
 ## Homework
+* Create the app that use all knowledge from previous session and next session
 
 # Flutter Workshop #3
 
-## Pre-workshop (homework)
+## Pre-workshop
+Watch/read or do things listed below before workshop started
+* Project Structure - https://www.youtube.com/watch?v=UE-oO8zIsRA&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=11
+* Change App name - https://www.youtube.com/watch?v=Qzq-sFTaTNw&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=12
+* Changing App Icon - https://www.youtube.com/watch?v=0U-M056ChUQ&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=13
+* Understand Widget - https://www.youtube.com/watch?v=SiyKdQbO1PQ&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=14
+* Getting started on Widget - https://www.youtube.com/watch?v=4zz8P5smTgI&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=15
+* Scaffold - https://www.youtube.com/watch?v=0i9YeQI9WgM&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=16
+* App Color - https://www.youtube.com/watch?v=cvZq-9GJwWU&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=17
 
-## Workshop
+* Basic Widgets
+  * Stateless Widget - https://www.youtube.com/watch?v=k7Z89TN9op8&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=18
+  * Center - https://www.youtube.com/watch?v=kZK4rnnHCm4&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=19
+  * Text and Colors - https://www.youtube.com/watch?v=5RJ3xkFvEyM&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=20
+  * Images
+    * https://www.youtube.com/watch?v=Ut7tJAHJ4i8&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=21
+    * https://www.youtube.com/watch?v=hmcpVn4DQOc&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=32
+  * Column - https://www.youtube.com/watch?v=7NNARcO6zCc&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=22
+  * Button & Icons - https://www.youtube.com/watch?v=7NNARcO6zCc&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=24
+  * Event & State - https://www.youtube.com/watch?v=SbMVr84d6So&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=25
+  * Function Event - https://www.youtube.com/watch?v=zbo-Ca79y-I&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=26
+  * Widget in List - https://www.youtube.com/watch?v=l3IYf7lBKQY&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=27
+  * ListView - https://www.youtube.com/watch?v=pTqjnvkDoBU&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=28
+  * ListTile - https://www.youtube.com/watch?v=_Y3zCWgMbFQ&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=29
+  * ListView Builder - https://www.youtube.com/watch?v=d4835QY6F7s&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=30
+  * Container
+    * https://www.youtube.com/watch?v=YundnAdXFro&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=34
+    * https://www.youtube.com/watch?v=qxMCdOSFRd8&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=35
+  * Padding - https://www.youtube.com/watch?v=ivxMUcqtyJ8&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=36
+  * Text Style - https://www.youtube.com/watch?v=w7sSsVps-W8&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=37
+  * Expanded - https://www.youtube.com/watch?v=uPzx4JFa54I&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=38
+  * SizedBox - https://www.youtube.com/watch?v=gxQttGSrB2U&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=39
+  * Custom Widget - https://www.youtube.com/watch?v=6XdUsi2IACU&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=40
+  * Widget Lifecycle - https://www.youtube.com/watch?v=SYOrOIJK5hY&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=42
+
+## Homework
+* Create the app that use all knowledge from previous session ex. Food menu app
 
 # Flutter Workshop #4
 
-## Pre-workshop (homework)
-
+## Pre-workshop
+Watch/read or do things listed below before workshop started
+* Asyc & Future - https://www.youtube.com/watch?v=ZQUE9J2N_uo&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=43
+* Unerstand API - https://www.youtube.com/watch?v=Ksy9mhXdcYo&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=44
+* Install HTTP Package - https://www.youtube.com/watch?v=SuZzAKcGVfU&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=46
+* Retrieve data from API - https://www.youtube.com/watch?v=2fdFpRDR0CE&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=47
+* Convert json to Dart - https://www.youtube.com/watch?v=tFdTwGcQNCQ&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=48
+* Managing null - https://www.youtube.com/watch?v=HNcAWzwBpSU&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=49
+* Retreive and manage null - https://www.youtube.com/watch?v=eSDtgBe6hXg&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=50
+* Linear progress indicator - https://www.youtube.com/watch?v=LX22VUjt00Q&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=51
+* Future Builder - https://www.youtube.com/watch?v=Vnuw2Q70APQ&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=52
+* Take data from snaphot - https://www.youtube.com/watch?v=Vnuw2Q70APQ&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=53
+* State Management
+  * Bloc/Cubit - https://www.youtube.com/watch?v=ohQvH9s021A&list=RDCMUCkgnZDuS9fM951TpyBTkNPg&index=1
 ## Workshop
+
+
+## Homework
+
 
 # Flutter Workshop #5
 
-## Pre-workshop (homework)
+## Pre-workshop
+Watch/read or do things listed below before workshop started
 
 ## Workshop
 
 # Flutter Workshop #6
 
-## Pre-workshop (homework)
+## Pre-workshop
+Watch/read or do things listed below before workshop started
 
 ## Workshop
 
 # Flutter Workshop #7
 
-## Pre-workshop (homework)
+## Pre-workshop
+Watch/read or do things listed below before workshop started
 
 ## Workshop
 
 # Flutter Workshop #8
 
-## Pre-workshop (homework)
+## Pre-workshop
+Watch/read or do things listed below before workshop started
 
 ## Workshop
 
+# Reference
+* KongRuksiam Official - https://www.youtube.com/@KongRuksiamOfficial
