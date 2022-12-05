@@ -142,33 +142,27 @@ Watch/read or do things listed below before workshop started
 ## Homework
 
 
-# Flutter Workshop #5 - 
+# Flutter Workshop #5 - Building your own app
 
 ## Pre-workshop
 Watch/read or do things listed below before workshop started
 
 ## Workshop
 
-# Flutter Workshop #6
+# Flutter Workshop #6 - Build Interesting Custom Widget 1
 
 ## Pre-workshop
 Watch/read or do things listed below before workshop started
 
 ## Workshop
 
-# Flutter Workshop #7
+# Flutter Workshop #7 - Build Interesting Custom Widget 2
 
 ## Pre-workshop
 Watch/read or do things listed below before workshop started
 
 ## Workshop
 
-# Flutter Workshop #8
-
-## Pre-workshop
-Watch/read or do things listed below before workshop started
-
-## Workshop
 
 # Reference
 * KongRuksiam Official - https://www.youtube.com/@KongRuksiamOfficial
