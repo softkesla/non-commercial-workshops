@@ -133,7 +133,9 @@ Watch/read or do things listed below before workshop started
 * Future Builder - https://www.youtube.com/watch?v=Vnuw2Q70APQ&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=52
 * Take data from snaphot - https://www.youtube.com/watch?v=Vnuw2Q70APQ&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=53
 * State Management
-  * Bloc/Cubit - https://www.youtube.com/watch?v=ohQvH9s021A&list=RDCMUCkgnZDuS9fM951TpyBTkNPg&index=1
+  * Bloc/Cubit
+    ** https://www.youtube.com/watch?v=ohQvH9s021A&list=RDCMUCkgnZDuS9fM951TpyBTkNPg&index=1
+    ** https://www.youtube.com/watch?v=i6v3KjsbyB4  
 ## Workshop
 
 
