@@ -1,5 +1,5 @@
-# Flutter Workshop #1
-
+# Flutter Workshop #1 - Basic Dart
+Understand soe basic programming and dart syntax
 ## Pre-workshop
 Watch/read or do things listed below before workshop started
 * Tool to use - https://dartpad.dev
@@ -30,8 +30,8 @@ Watch/read or do things listed below before workshop started
     * Break & Continue - https://www.youtube.com/watch?v=oFYTar-XhGk&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=38
     * How to use loop - https://www.youtube.com/watch?v=VZmjAOpsyXI&list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G&index=39
 
-# Flutter Workshop #2
-
+# Flutter Workshop #2 - Basic Dart & Flutter Hello World
+Basic Dart and starting to run your first app
 ## Pre-workshop
 Watch/read or do things listed below before workshop started
 * Intermedate Dart
@@ -78,8 +78,8 @@ Watch/read or do things listed below before workshop started
 ## Homework
 * Create the app that use all knowledge from previous session and next session
 
-# Flutter Workshop #3
-
+# Flutter Workshop #3 - Widgets
+This workshop will more focus on native widget in flutter
 ## Pre-workshop
 Watch/read or do things listed below before workshop started
 * Project Structure - https://www.youtube.com/watch?v=UE-oO8zIsRA&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=11
@@ -118,8 +118,8 @@ Watch/read or do things listed below before workshop started
 ## Homework
 * Create the app that use all knowledge from previous session ex. Food menu app
 
-# Flutter Workshop #4
-
+# Flutter Workshop #4 - APIs
+This workshop will majority adapt flutter with APIs concept
 ## Pre-workshop
 Watch/read or do things listed below before workshop started
 * Asyc & Future - https://www.youtube.com/watch?v=ZQUE9J2N_uo&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=43
@@ -142,7 +142,7 @@ Watch/read or do things listed below before workshop started
 ## Homework
 
 
-# Flutter Workshop #5
+# Flutter Workshop #5 - 
 
 ## Pre-workshop
 Watch/read or do things listed below before workshop started
