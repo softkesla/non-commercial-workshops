@@ -41,6 +41,6 @@
 * [Learning Github Desktop](https://www.youtube.com/watch?v=fIAkdihd6Fg)
 ### 2.4 Android Studio (Optional)
 * [Link to install](https://developer.android.com/studio?gclid=Cj0KCQiAvqGcBhCJARIsAFQ5ke55LAAeXOqp8KpmmIo5qKWGSi--mI9iTI0ZsyxGDDOp10go0UGDN7oaAjLFEALw_wcB&gclsrc=aw.ds)
-### 2.5 XCode Installation (Optional)
+### 2.5 XCode Installation (Optional as it would not work if trying to install in windows)
 * [Link to install](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
 
