@@ -13,6 +13,7 @@
 * [Register / Signup](https://signup.live.com/signup?id=74335&contextid=B8DE883F35E04F95&opid=3ABF61BC9591FFF3&bk=1669882100&sru=https://login.live.com/login.srf%3fid%3d74335%26id%3d74335%26contextid%3dB8DE883F35E04F95%26opid%3d3ABF61BC9591FFF3%26mkt%3dTH-TH%26lc%3d1054%26bk%3d1669882100%26uaid%3d2e0772993fd24d9f992e261d8d18c457&uiflavor=web&lic=1&mkt=TH-TH&lc=1054&uaid=2e0772993fd24d9f992e261d8d18c457)
 ### 1.3 Github
 * [Register / Signup](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+* [Setup SSH](https://www.youtube.com/watch?v=a-zX_qc2S-M)
 ## 2. Tooling Installation
 ### 2.1 MS Teams
 * [Link to install](https://www.microsoft.com/en-ww/microsoft-teams/download-app)
